@@ -2,7 +2,7 @@
 
 Select their message. Press **⌥ Option + R**. Get your reply, in your voice, pasted right where your cursor was. Works in WhatsApp, Slack, LinkedIn, Gmail and any other app.
 
-**[Download the latest Volley.dmg](https://github.com/harsimran-preet/volley-releases/releases/latest/download/Volley.dmg)** · macOS 13 or later · Apple Silicon and Intel
+**[getvolley.vercel.app](https://getvolley.vercel.app)** · **[Download the latest Volley.dmg](https://github.com/harsimran-preet/volley-releases/releases/latest/download/Volley.dmg)** · macOS 13 or later · Apple Silicon and Intel
 
 ## Install
 
