@@ -9,7 +9,7 @@ Select their message. Press **⌥ Option + R**. Get your reply, in your voice, p
 1. Open `Volley.dmg` and drag Volley into Applications.
 2. Open Volley. This early build isn't notarized by Apple yet, so the first time macOS blocks it: go to **System Settings → Privacy & Security** and click **Open Anyway**.
 3. Allow **Accessibility** when the setup window asks. Volley needs it to read your selection and paste the reply.
-4. Add an API key from [Anthropic](https://console.anthropic.com/) or [Google AI Studio](https://aistudio.google.com/apikey).
+4. Add an API key from [Anthropic](https://console.anthropic.com/), [Google AI Studio](https://aistudio.google.com/apikey) or [OpenAI](https://platform.openai.com/api-keys).
 
 Volley updates itself: it checks this repository's latest release in the background and offers new versions from its menu-bar icon.
 
