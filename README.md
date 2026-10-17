@@ -11,6 +11,13 @@ Select their message. Press **⌥ Option + R**. Get your reply, in your voice, p
 3. Allow **Accessibility** when the setup window asks. Volley needs it to read your selection and paste the reply.
 4. Add an API key from [Anthropic](https://console.anthropic.com/), [Google AI Studio](https://aistudio.google.com/apikey) or [OpenAI](https://platform.openai.com/api-keys).
 
+### Optional permissions
+
+Volley works with Accessibility alone. Two features ask for more, and only when you turn them on:
+
+- **Calendars**, for *Calendar availability* (Settings → Voice, off by default). Volley reads only the start and end times of your busy events for the next few days, so a reply can suggest a time that works. Event titles, attendees and notes are never read.
+- **Full Disk Access**, for importing your iMessage history (Settings → Memory → Import history), so replies sound like you from day one. The Messages database is opened read-only, and the imported text stays on your Mac. Importing a WhatsApp *Export chat* file needs no extra permission.
+
 Volley updates itself: it checks this repository's latest release in the background and offers new versions from its menu-bar icon.
 
 ## What's here
